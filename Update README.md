@@ -36,7 +36,7 @@
   <img data-importer="image" height="200" src="< a href="https://ibb.co.com/8nYshY4W"><img src="https://i.ibb.co.com/LDNRGNhL/learn-20260825-190837-0000.png" alt="learn-20260825-190837-0000" border="0"></a>"  />
 </div>
 
-##### Hi there 👋
+
 
 <!--
 **afifnihayatuss1/afifnihayatuss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
